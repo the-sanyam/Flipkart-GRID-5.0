@@ -8,11 +8,14 @@ In this season of Flipkart GRID 5.0, we are entering to elevate the fashion disc
 With FlipFashion Genie, users will embark on a natural, interactive journey that will empower them to explore fashion choices aligned with their unique style and the latest trends. 
 
 ## Demo video link
-🟡[Demo Video Link (GoogleDrive)](https://drive.google.com/file/d/1GOG08OZHiCUhxqW914xlhj9qCPoCGE_z/view?usp=sharing)
+🟡[Demo Video Link (GoogleDrive)](https://drive.google.com/drive/u/0/folders/15dZC7E95KV4ObkfT5tEAw6wI3Uxkzo2W)
 
 ## Screenshot 
 
 <img src="https://github.com/the-sanyam/Flipkart-GRID-5.0/blob/main/Images/Screenshot%20from%202023-08-20%2011-42-34.png" alt="SS" border="0" >  
+
+## Dataset
+https://drive.google.com/drive/u/0/folders/15dZC7E95KV4ObkfT5tEAw6wI3Uxkzo2W
 
 ## UseCases
 
@@ -47,8 +50,6 @@ Stay updated with the latest fashion trends by conversing with the AI, which com
 * **Chainlit**
 * **Redis**
 
-## Installation
-
 
 ### Pre-Requisites:
 1. Install Git Version Control
@@ -77,7 +78,7 @@ chainlit run redis_langchain_chatbot.py -w
 ```
 ## Documentation
 
-[PPT Documentation](https://drive.google.com/file/d/192TvsyfbdwjmdQRYeYozvTWteCe0S09S/view?usp=sharing)
+[PPT Documentation](https://drive.google.com/drive/u/0/folders/15dZC7E95KV4ObkfT5tEAw6wI3Uxkzo2W)
 
 ## Authors
 
