@@ -53,7 +53,7 @@ import os
 from langchain.embeddings import OpenAIEmbeddings
  
 # set your openAI api key as an environment variable
-os.environ['OPENAI_API_KEY'] = "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"
+os.environ['OPENAI_API_KEY'] = "ENTER-YOUR-OPENAI-KEY"
 
 # data that will be embedded and converted to vectors
 texts = [
